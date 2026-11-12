@@ -1,0 +1,10 @@
+Feature,Importance
+time_index,1356
+rolling_mean_10,1203
+rolling_mean_50,1169
+lag_10,776
+lag_50,741
+lag_1,648
+hour,572
+day_of_week,400
+month,135
